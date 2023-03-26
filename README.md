@@ -16,5 +16,5 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Contact
 
-Name: Reagan Enoch 
-Phone number: 0796004050
+- Name: Reagan Enoch 
+- Phone number: 0796004050
