@@ -1,15 +1,14 @@
 # dice_app
 
-A new Flutter project.
+this is dice app built by the flutter framwork
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for the dice application all the way to the end of the application
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- images: make sure you edit the pubspec file
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
